@@ -7,4 +7,5 @@ Run app.py
 # Model Weights
 RNN-LSTM model trained using ResNet50 extracted image features
 
-# Report, PPT and paper for the project is attached 
+# Documentation
+Report, PPT and paper for the project is attached 
